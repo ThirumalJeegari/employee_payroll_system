@@ -6,9 +6,13 @@ The Employee Payroll System is a Python-based application developed using Object
 It helps manage employee records, track attendance, calculate bonuses, and generate payslips efficiently.
 
 🚀 Features
+
 👤 Add Employee Details
+
 📋 View All Employees
+
 💰 Update Employee Salary
+
 ❌ Delete Employee Records
 📅 Track Attendance (Present / Absent)
 🎯 Bonus Calculation based on attendance
