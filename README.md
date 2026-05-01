@@ -14,19 +14,31 @@ It helps manage employee records, track attendance, calculate bonuses, and gener
 💰 Update Employee Salary
 
 ❌ Delete Employee Records
+
 📅 Track Attendance (Present / Absent)
+
 🎯 Bonus Calculation based on attendance
+
 🧾 Generate Payslip
+
 🗄️ Store salary records in database
 
+
 🛠️ Tech Stack
+
 Programming Language: Python
+
 Database: MySQL
+
 Concepts Used:
+
 Object-Oriented Programming (OOP)
+
 File Handling (basic)
 
+
 Database Connectivity (mysql-connector)
+
 📂 Project Structure
 Employee Payroll System/
 │
@@ -56,6 +68,7 @@ db_Connection.py
 python main.py
 
 📊 Example Workflow
+
 Add employee details
 Mark attendance
 Calculate bonus based on attendance
@@ -63,12 +76,14 @@ Generate payslip
 Store salary in database
 
 🧠 Key Concepts Demonstrated
+
 Class & Object Design
 Static Methods
 Database CRUD Operations
 Real-world business logic implementation
 
 🔥 Future Enhancements
+
 GUI version using Tkinter
 Web version using Flask/Django
 Login Authentication System
