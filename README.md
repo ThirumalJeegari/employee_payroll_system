@@ -47,6 +47,7 @@ Database Connectivity (mysql-connector)
 📂 Project Structure
 
 Employee Payroll System/
+
 │
 
 ├── db_Connection.py   # Database connection and table creation
