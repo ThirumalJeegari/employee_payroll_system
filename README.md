@@ -1,4 +1,8 @@
 <h1 align="center">Employee Payroll System</h1>
+<p align="center">
+  <b>Python + MySQL based Payroll Management System</b><br>
+  Manage Employees • Track Attendance • Generate Payslips
+</p>
 
 📌 Project Overview
 
