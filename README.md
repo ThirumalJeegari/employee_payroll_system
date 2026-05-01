@@ -1,4 +1,4 @@
-# employee_payroll_system
+<h1 align="center">Employee Payroll System</h1>
 
 📌 Project Overview
 
